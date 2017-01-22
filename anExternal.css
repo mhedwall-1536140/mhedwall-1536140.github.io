@@ -1,0 +1,46 @@
+body {
+	background-color: lavender;
+	}
+h1 {
+	border:2px solid green;
+	border-radius: 5px;
+	font-family: times new roman;
+	padding: 5px;
+	text-align: center;
+	}
+h2.italic {
+	font-style: italic;
+	font-family: verdana;
+	}
+p.verdana {
+	font-family: verdana;
+	width: 300px;
+	font-size: 20px;
+	}
+#husky {
+	display: block;
+	margin-left: 20px;
+	margin-right: 20px;
+	float: right;
+	font-size: 20px;
+	text-align: center'
+	}
+p.dogs {
+	font-family: verdana;
+	float:left;
+	color: purple;
+	}
+p.dots {
+	border-style:dotted;
+	text-align: center;
+	padding-right: 10px;
+	padding-left: 10px;
+	font-size: 30px;
+	}
+.dog {
+	position: left;
+	}
+img.dog {
+	width: 50%;
+	height: auto;
+	
