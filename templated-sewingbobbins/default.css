@@ -21,16 +21,19 @@ h1, h2, h3 {
 p, ol, ul {
 	margin-top: 0px;
 }
-
-p {
+	
+p.plug {
 	line-height: 190%;
+	padding-right: 400px;
 }
 
 strong {
 }
 
 a {
-	color: #171717;
+	color: #8B008B;
+	font-family: sans-serif;
+	font-
 }
 
 a:hover {
@@ -181,6 +184,8 @@ hr {
 	{
 		margin-bottom: 2em;
 		text-transform: uppercase;
+		font-style: italic;
+		color: 
 	}
 
 	.title h2
@@ -297,7 +302,7 @@ hr {
 
 #menu-wrapper
 {
-	background: #2F94A8;
+	background: #E6E6FA;
 }
 
 #menu {
@@ -336,7 +341,7 @@ hr {
 
 #menu .current_page_item a {
 	border-radius: 20px;
-	background: #77C4D3;
+	background: #008B8B;
 }
 
 /** PAGE */
@@ -500,7 +505,7 @@ hr {
 		display: inline-block;
 		margin-top: 1.5em;
 		padding: 0.50em 3em 0.50em 2em;
-		background: #2F94A8;
+		background: #DB7093;
 		letter-spacing: 0.20em;
 		text-decoration: none;
 		text-transform: uppercase;
